@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou IceZnn 👋</h1>
+<h1 align="center">Olá, eu sou IceZnn </h1>
 
 <p align="center">
-  <em>Estudante • Desenvolvedor em formação • Entusiasta de tecnologia</em>
+  <em>Estudante • Desenvolvedor em formação /em>
 </p>
 
 <p align="center">
